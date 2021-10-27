@@ -498,8 +498,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13e5b19e9163edc428b483f00dafba43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  goSpawn: {fileID: 1716318111307050861, guid: 8e57be2ea5be2b84680112ce85c5200d, type: 3}
+  goDragon: {fileID: 1716318111307050861, guid: 8e57be2ea5be2b84680112ce85c5200d, type: 3}
   arRaycastManager: {fileID: 1120273567}
+  traCamera: {fileID: 1960613496}
+  speedLookAt: 7.5
 --- !u!4 &2146643874
 Transform:
   m_ObjectHideFlags: 0
