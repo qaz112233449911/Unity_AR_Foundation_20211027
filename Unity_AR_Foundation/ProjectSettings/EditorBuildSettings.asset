@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: "Assets/\u5834\u666F/AR_Foundation.unity"
-    guid: 1dd16678687ea1749ac4034304394117
+    path: "Assets/\u5834\u666F/AR Foundation\u74B0\u5883\u53CD\u5C04\u5149\u6548\u679C.unity"
+    guid: cf19a36e2d53b214eb2c4be5b909d5e8
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a7f8d135a3fb5d34785d78ab1d63ae4d, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 78aa2d4bb73318c438eb80bfc55ef37a, type: 2}
